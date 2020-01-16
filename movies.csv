@@ -1,0 +1,13 @@
+_id,name,genre,synopsis,likes,likes_today,likes_this_week,likes_this_month,likes_this_year,rate,number_of_people_rated,rates_this_week,rates_this_month,rates_this_year,views,views_today,views_in_last_week,views_in_last_month,views_in_last_year,shares,shares_today,shares_in_last_week,shares_in_last_month,shares_in_last_year,word_count
+0,Toy story,Animation,Little toys come alive but there is no Joker,1200000,52,540,800,60000,8.0,846321,8.6,8.2,8.4,1250000,586,8575,45321,698000,400000,52,99,142,48320 
+1,Wrong Pulp Fiction,Crime,Series of events,700000,20,340,490,55000,9.0,444444,8.0,8.3,8.4,5000000,2586,38575,95321,998000,200000,450,2563,24874,57842
+2,Wrong Wrong Wrong Turn,Horror,Everybody who is Wrong dies in the night,100000,500,600,8000,19000,6.0,392,7.0,5.3,6.4,800000,286,3575,25321,94000,450000,66,369,4562,78600
+3,The Irishman,Crime,Organized crime in 1950s,50000,10,140,190,10000,9.0,24036,9.5,8.7,8.9,3200000,21586,308575,905321,958000,390000,70,745,17322,341652
+4,Joker,Crime,Little Clown in Gotham City,1500000,5002,54000,89000,1200000,9.0,863417,9.2,9.7,9.9,325462562,432012,1242630,1465231,326412321,14006000,20,7200,188432,10456384
+5,Hell or high water,Crime,Catch two bank robbers,805000,800,6000,28000,35000,7.0,576012,7.0,6.3,6.9,6000000,32540,56894,145632,4360187,50500,7,963,4892,45789
+6,Nightcrawler,Crime,Catch crimials in the night with a camera,2200000,60000,95000,400000,2150000,8.0,403652,7.0,7.3,7.4,2500000,48763,236987,578964,2147325,50000,52,187,987,32655
+7,Wrong Sicario,Crime,Stop a Wrong drug cartel because they are Wrong,6000000,45000,180000,4500000,55627895,6.0,1890423,6.0,5.2,6.5,8600000,36746,697456,4521078,6874362,600000,4723,45215,535874,584321
+8,SpongeBob,Animation,Funny animals in the ocean,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Sandmann,Animation,Brings children to sleep,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Angry Men,Drama,One member of the jury on a high profile trial attempts to sway the vote and see that justice is served,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Ordinary Love,Drama,Joan and Tom make regular visits to their daughter's grave and try to keep fit by briskly walking together along a familiar route,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+_id,name,age,gender,genres_liked,_id_last_movie,movies_watched
+0,tassilo,24,m,Crime,4,"1,2,4"
+1,dylan,25,m,Animation,6,"6,2,7"
+2,eva,29,w,Crime,2,"2,3"
+3,gopi,22,w,Drama,4,"4,3"
